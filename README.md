@@ -138,12 +138,12 @@ curl -X POST https://TU_URL_PUBLICA.ngrok-free.app/predict \
 ---
 
 ## Referencias (APA)
-- Deloitte. (2025, June 2). *2025 Gen Z and millennial survey*. Deloitte Insights. https://www.deloitte.com/us/en/insights/topics/talent/2025-gen-z-millennial-survey.html (consultado {today}).
-- Deloitte. (2025, May 14). *2025 Gen Z and Millennial Survey* (global hub). https://www.deloitte.com/global/en/issues/work/genz-millennial-survey.html (consultado {today}).
-- KultureHire. (s. f.). *Understanding Career Aspirations of GenZ* [Dataset]. Kaggle. https://www.kaggle.com/datasets/kulturehire/understanding-career-aspirations-of-genz/data (consultado {today}).
-- Pew Charitable Trusts. (2023, December 8). *It’s time to create mentally healthy workplaces*. https://www.pew.org/en/trend/archive/fall-2023/its-time-to-create-mentally-healthy-workplaces (consultado {today}).
-- scikit‑learn developers. (s. f.). *accuracy_score* — scikit‑learn documentation. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html (consultado {today}).
-- scikit‑learn developers. (s. f.). *f1_score* — scikit‑learn documentation. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html (consultado {today}).
-- scikit‑learn developers. (s. f.). *jaccard_score* — scikit‑learn documentation. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.jaccard_score.html (consultado {today}).
-- scikit‑learn developers. (s. f.). *OneVsRestClassifier* — scikit‑learn documentation. https://scikit-learn.org/stable/modules/generated/sklearn.multiclass.OneVsRestClassifier.html (consultado {today}).
-- scikit‑learn developers. (s. f.). *LogisticRegression* — scikit‑learn documentation. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html (consultado {today}).
+- Deloitte. (2025, June 2). *2025 Gen Z and millennial survey*. Deloitte Insights. https://www.deloitte.com/us/en/insights/topics/talent/2025-gen-z-millennial-survey.html.
+- Deloitte. (2025, May 14). *2025 Gen Z and Millennial Survey* (global hub). https://www.deloitte.com/global/en/issues/work/genz-millennial-survey.html.
+- KultureHire. (s. f.). *Understanding Career Aspirations of GenZ* [Dataset]. Kaggle. https://www.kaggle.com/datasets/kulturehire/understanding-career-aspirations-of-genz/data.
+- Pew Charitable Trusts. (2023, December 8). *It’s time to create mentally healthy workplaces*. https://www.pew.org/en/trend/archive/fall-2023/its-time-to-create-mentally-healthy-workplaces.
+- scikit‑learn developers. (s. f.). *accuracy_score* — scikit‑learn documentation. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html.
+- scikit‑learn developers. (s. f.). *f1_score* — scikit‑learn documentation. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html.
+- scikit‑learn developers. (s. f.). *jaccard_score* — scikit‑learn documentation. https://scikit-learn.org/stable/modules/generated/sklearn.metrics.jaccard_score.html.
+- scikit‑learn developers. (s. f.). *OneVsRestClassifier* — scikit‑learn documentation. https://scikit-learn.org/stable/modules/generated/sklearn.multiclass.OneVsRestClassifier.html.
+- scikit‑learn developers. (s. f.). *LogisticRegression* — scikit‑learn documentation. https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html.
